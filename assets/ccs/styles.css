@@ -17,6 +17,19 @@ h1 {
     font-weight: bold;
 }
 
-a{
+a {
     text-decoration: none;
+}
+
+footer {
+    display: flex;
+    justify-content:    center;
+    align-items: center;
+    background-color: #E83E8C;
+    height: 184px;
+}
+
+.logo {
+    height: 100px;
+    weight: 53px;
 }

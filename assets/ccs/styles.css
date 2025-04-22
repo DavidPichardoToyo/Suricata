@@ -14,6 +14,7 @@ h1 {
     color: #707070;
     opacity: 1;
     padding-top: 64px;
+    padding-bottom: 64px;
     font-weight: bold;
 }
 
@@ -32,4 +33,35 @@ footer {
 .logo {
     height: 100px;
     weight: 53px;
+}
+
+.col {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 30px;
+}
+
+#cards {
+    padding-left: 15%;
+    padding-right: 15%;
+}
+
+.medios {
+    display: flex;
+    align-items: center;
+    height: 170px;
+    padding-left: 10%;
+    background-color: #17A2B8;
+    color: white;
+    font-size: 40px;
+    font-weight: bold;
+    
+}
+
+.iconos {
+    height: 68px;
+    weight: 36px;
+    padding-right: 10%;
+    justify-content: space-between;
+    
 }
